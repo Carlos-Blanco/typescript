@@ -4,9 +4,9 @@ let z;           //* Declares z without initializing it
 
 x = 1;
 
-x = "one";
+x = "one";  //Error
 
-y = "one";
+y = "one";  //Error
 
 z = 1;
 z = "one";
